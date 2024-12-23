@@ -1,0 +1,105 @@
+2024-09-01 14:07:42,311 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-01 14:07:49,726 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-09-01 14:07:55,185 - Luma Domain. -INFO - the user enters valid data :: Success
+2024-09-01 14:08:02,196 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-09-01 14:08:02,221 - Luma Domain. -INFO - Assertion passed...
+2024-09-01 14:08:10,509 - Luma Domain. -INFO - the user should be registered successfully :: Success
+2024-09-01 14:08:10,878 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-09-01 14:08:11,888 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-01 14:08:17,605 - Luma Domain. -INFO - the user navigates to the login page :: Success
+2024-09-01 14:08:22,231 - Luma Domain. -INFO - enters the valid credentials used for sign-up :: Success
+2024-09-01 14:08:25,210 - Luma Domain. -INFO - clicks on the Sign In button :: Success
+2024-09-01 14:08:25,533 - Luma Domain. -INFO - Assertion Passed...
+2024-09-01 14:08:25,535 - Luma Domain. -INFO - the user should be logged in successfully
+2024-09-01 14:08:25,756 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-09-01 14:08:27,051 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-01 14:08:32,885 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-09-01 14:08:33,524 - Luma Domain. -INFO - the user enters an invalid email format :: Success
+2024-09-01 14:08:36,619 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-09-01 14:08:39,655 - Luma Domain. -INFO - Assertion passed...
+2024-09-01 14:08:39,655 - Luma Domain. -INFO - an error message should be displayed :: Success
+2024-09-01 14:08:39,858 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-09-19 09:46:06,700 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-19 09:46:13,262 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-09-19 09:46:19,245 - Luma Domain. -INFO - the user enters valid data :: Success
+2024-09-19 09:46:25,508 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-09-19 09:46:25,524 - Luma Domain. -INFO - Assertion passed...
+2024-09-19 09:46:30,110 - Luma Domain. -INFO - the user should be registered successfully :: Success
+2024-09-19 09:46:30,522 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-09-19 09:46:32,047 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-19 09:46:38,355 - Luma Domain. -INFO - the user navigates to the login page :: Success
+2024-09-19 09:46:43,128 - Luma Domain. -INFO - enters the valid credentials used for sign-up :: Success
+2024-09-19 09:46:46,624 - Luma Domain. -INFO - clicks on the Sign In button :: Success
+2024-09-19 09:46:46,958 - Luma Domain. -INFO - Assertion Passed...
+2024-09-19 09:46:46,958 - Luma Domain. -INFO - the user should be logged in successfully
+2024-09-19 09:46:47,386 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-09-19 09:46:48,791 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-09-19 09:46:53,199 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-09-19 09:46:54,617 - Luma Domain. -INFO - the user enters an invalid email format :: Success
+2024-09-19 09:46:57,752 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-09-19 09:47:00,868 - Luma Domain. -INFO - Assertion passed...
+2024-09-19 09:47:00,869 - Luma Domain. -INFO - an error message should be displayed :: Success
+2024-09-19 09:47:02,119 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-01 15:01:47,185 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-01 15:01:51,497 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-10-01 15:01:57,494 - Luma Domain. -INFO - the user enters valid data :: Success
+2024-10-01 15:02:03,720 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-10-01 15:02:03,751 - Luma Domain. -INFO - Assertion passed...
+2024-10-01 15:02:08,779 - Luma Domain. -INFO - the user should be registered successfully :: Success
+2024-10-01 15:02:09,800 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-01 15:02:12,030 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-01 15:02:16,956 - Luma Domain. -INFO - the user navigates to the login page :: Success
+2024-10-01 15:02:22,806 - Luma Domain. -INFO - enters the valid credentials used for sign-up :: Success
+2024-10-01 15:02:25,221 - Luma Domain. -INFO - clicks on the Sign In button :: Success
+2024-10-01 15:02:25,540 - Luma Domain. -INFO - Assertion Passed...
+2024-10-01 15:02:25,542 - Luma Domain. -INFO - the user should be logged in successfully
+2024-10-01 15:02:26,553 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-01 15:02:28,557 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-01 15:02:32,818 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-10-01 15:02:34,110 - Luma Domain. -INFO - the user enters an invalid email format :: Success
+2024-10-01 15:02:37,240 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-10-01 15:02:40,340 - Luma Domain. -INFO - Assertion passed...
+2024-10-01 15:02:40,341 - Luma Domain. -INFO - an error message should be displayed :: Success
+2024-10-01 15:02:41,016 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-14 12:56:44,653 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-14 12:56:53,579 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-10-14 12:57:00,525 - Luma Domain. -INFO - the user enters valid data :: Success
+2024-10-14 12:57:07,830 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-10-14 12:57:07,861 - Luma Domain. -INFO - Assertion passed...
+2024-10-14 12:57:13,844 - Luma Domain. -INFO - the user should be registered successfully :: Success
+2024-10-14 12:57:14,300 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-14 12:57:15,669 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-14 12:57:25,844 - Luma Domain. -INFO - the user navigates to the login page :: Success
+2024-10-14 12:57:31,092 - Luma Domain. -INFO - enters the valid credentials used for sign-up :: Success
+2024-10-14 12:57:34,555 - Luma Domain. -INFO - clicks on the Sign In button :: Success
+2024-10-14 12:57:34,890 - Luma Domain. -INFO - Assertion Passed...
+2024-10-14 12:57:34,890 - Luma Domain. -INFO - the user should be logged in successfully
+2024-10-14 12:57:35,303 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-10-14 12:57:36,599 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-10-14 12:57:46,206 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-10-14 12:57:47,166 - Luma Domain. -INFO - the user enters an invalid email format :: Success
+2024-10-14 12:57:50,278 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-10-14 12:57:53,333 - Luma Domain. -INFO - Assertion passed...
+2024-10-14 12:57:53,334 - Luma Domain. -INFO - an error message should be displayed :: Success
+2024-10-14 12:57:53,981 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-12-23 11:29:14,152 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-12-23 11:29:19,405 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-12-23 11:29:24,452 - Luma Domain. -INFO - the user enters valid data :: Success
+2024-12-23 11:29:30,487 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-12-23 11:29:30,506 - Luma Domain. -INFO - Assertion passed...
+2024-12-23 11:29:35,122 - Luma Domain. -INFO - the user should be registered successfully :: Success
+2024-12-23 11:29:35,510 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-12-23 11:29:36,585 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-12-23 11:29:41,653 - Luma Domain. -INFO - the user navigates to the login page :: Success
+2024-12-23 11:29:46,011 - Luma Domain. -INFO - enters the valid credentials used for sign-up :: Success
+2024-12-23 11:29:48,536 - Luma Domain. -INFO - clicks on the Sign In button :: Success
+2024-12-23 11:29:48,859 - Luma Domain. -INFO - Assertion Passed...
+2024-12-23 11:29:48,859 - Luma Domain. -INFO - the user should be logged in successfully
+2024-12-23 11:29:50,312 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-12-23 11:29:51,451 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-12-23 11:29:56,505 - Luma Domain. -INFO - the user is on the sign-up page :: Success
+2024-12-23 11:29:57,279 - Luma Domain. -INFO - the user enters an invalid email format :: Success
+2024-12-23 11:30:00,380 - Luma Domain. -INFO - clicks on the Create an Account button :: Success
+2024-12-23 11:30:03,442 - Luma Domain. -INFO - Assertion passed...
+2024-12-23 11:30:03,442 - Luma Domain. -INFO - an error message should be displayed :: Success
+2024-12-23 11:30:03,836 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
